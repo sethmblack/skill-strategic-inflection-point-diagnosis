@@ -3,8 +3,9 @@ name: strategic-inflection-point-diagnosis
 description: Diagnose whether a business challenge represents a strategic inflection point requiring fundamental transformation, or a normal problem requiring incremental improvement. Based on Andy Grove's fram...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5073
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - strategic-inflection-point-diagnosis
